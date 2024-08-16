@@ -1,0 +1,16 @@
+{
+    "autoload": {
+		"psr-4": {
+			"Router\\": "Router/",
+			"Cfg\\": "Cfg/"	,
+			"App\\": "App/",
+			"App\\Controller\\": "App/Controller/",
+			"App\\Helpers\\":"App/Helpers/",
+			"App\\OAuth\\":"App/OAuth/",
+			"App\\Model\\":"App/Model/",
+			"App\\Views\\": "App/Views/",
+			"Charts\\": "Charts/"	
+        	}
+	}
+    
+}
